@@ -120,10 +120,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Events
-  - subtitle: Past Events
-    url: /pastevents/
-  - subtitle: Upcoming Events
-    url: /upcomingevents/
+  url: /events/
+    - title: Past Events
+      url: /events/pastevents/
+    - title: Upcoming Events
+      url: /events/upcomingevents/
 - title: Calendar
   url: /Calendar/
 - title: Blog
